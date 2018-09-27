@@ -3,7 +3,7 @@
 
 ## Authenticating your telegram account and logging in on the website
 
-Send a personal message (aka DM) to **SMC Bot** with `/login` to authenticate your account. You will then get a link to login on the website.
+Send a personal message (aka DM) to **SMC Bot**([@makersclubbot](http://telegram.me/makersclubbot)) with `/login` to authenticate your account. You will then get a link to login on the website.
 
 ![](https://i.imgur.com/QX5GlvN.png)
 
