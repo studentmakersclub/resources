@@ -1,16 +1,24 @@
 # List of skills
 
-SKILLS = {
-	'js': {
+SKILLS = [
+	{
 		'name': 'JavaScript',
+		'handle': 'js'
 	},
-	'python': {
+	{
 		'name': 'Python',
+		'handle': 'python'
 	},
-	'java': {
+	{
 		'name': 'Java',
+		'handle': 'java'
 	},
-	'jquery': {
-		'name': 'jQuery'
+	{
+		'name': 'jQuery',
+		'handle': 'jQuery'
+	},
+	{
+		'name': 'React',
+		'handle': 'react'
 	}
-}
+]
