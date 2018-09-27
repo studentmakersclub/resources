@@ -13,7 +13,6 @@ Send a personal message (aka DM) to **SMC Bot**([@makersclubbot](http://telegram
 Use the `/update` command in DM or server channel to post updates.
 
 ```
-/update <your activity>
 /update <your activity> #projectTag
 /update <your activity> #skillTag
 ```
