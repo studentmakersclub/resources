@@ -51,7 +51,7 @@ export const skillMap = {
 }
 ```
 
-Skills are a work in progress. Please help by adding more skills to [skills.py](data/skills.py) file.
+Skills are a work in progress. Please help by adding more skills to [skills.py](https://github.com/studentmakersclub/resources/blob/master/data/skills.py) file.
 
 
 ## TIPS
