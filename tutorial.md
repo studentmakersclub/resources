@@ -1,6 +1,6 @@
 # Tutorial: Using SMC
 
-This is a tutorial of how to use Student Makers Club.
+This is a tutorial of how to use Student Makers Club. It covers posting updates, creating projects and setting skills in the application.
 
 
 ## Getting Started
@@ -49,6 +49,12 @@ export const skillMap = {
 	4: 'expert',
 	5: 'master'
 }
+```
+
+To delete a skill from your profile, set it to 0 (don't do it though, who unlearns a skill after they have learned it).
+
+```
+/skill js 0
 ```
 
 Skills are a work in progress. Please help by adding more skills to [skills.py](https://github.com/studentmakersclub/resources/blob/master/data/skills.py) file.
